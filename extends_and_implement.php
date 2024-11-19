@@ -1,7 +1,7 @@
-<h3>Extends and Implement</h3>
+<h3>Extends and Implement</h3> 
 
 <?php 
-interface ProductInterface {
+interface ProductInterface { //implement เป็นการกำหนดชื่อ
     public function getInfo();
 }
 
